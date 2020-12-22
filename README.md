@@ -21,4 +21,27 @@ Our system contains both admin and user module.</h4>
 6)User can raise complaints against service.</br>
 7)User can change account password.</br>
 
-<h2>Steps to add resporiatory:</h2>
+<h2>Software Requirements:</h2>
+1. XAMPP/MYSQL Server</br>
+2. Netbeans 8.0.2</br>
+3. JDK 8</br>
+
+<h2>Steps to setup project:</h2>
+1. Download code from github.</br>
+2. Open netbeans-> Open file-> Import Project-> From Zip ->Select project zip file and import it.</br>
+3. Open Xampp control panel.</br>
+4. Start Apache and MYSQL server.</br>
+5. Go to MySQL server admin.</br>
+6. Create new database which name is 'ems'.</br>
+7. Click on import and import SQL file.</br>
+8. Go to netbeans and make connection and go to dbconnection.class file and make changes in path if required.</br>
+9. Run project.</br>
+10. All required .jar files are included in project.</br>
+
+<h3>Admin Credentials:<h3/>
+Username= Admin</br>
+Password=admin</br>
+
+
+
+
